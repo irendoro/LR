@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "Go_to_WebTours",
+        "rawStartTime": 1728563525568,
+        "rawEndTime": 1728563525884
+    },
+    {
+        "transactionName": "Go_to_SignUp",
+        "rawStartTime": 1728563525991,
+        "rawEndTime": 1728563526131
+    },
+    {
+        "transactionName": "User_SignUp",
+        "rawStartTime": 1728563526240,
+        "rawEndTime": 1728563526420
+    },
+    {
+        "transactionName": "UC6_RegistrationNewUser",
+        "rawStartTime": 1728563525522,
+        "rawEndTime": 1728563526420
+    }
+]

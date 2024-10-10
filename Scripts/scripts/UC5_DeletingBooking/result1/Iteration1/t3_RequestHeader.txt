@@ -1,0 +1,11 @@
+GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1728570054; MTUserInfo=firstName&Cutler&address2&Amsterdam&username&cBeckett&hash&116&lastName&Beckett%0A&address1&Willow%20Street&creditCard&&expDate&%0A
+

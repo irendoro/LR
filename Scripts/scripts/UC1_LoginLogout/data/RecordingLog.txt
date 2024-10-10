@@ -1,0 +1,252 @@
+[API Trapper      ( cbc:256c)] Recording in 64-bit mode: C:\Users\user\Downloads\firefox-50.1.0.win64.sdk\firefox-sdk\bin\firefox.exe
+[Network Analyzer ( cbc: 95c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( cbc: 95c)] Load Network Traffic Analyzers:
+[Network Analyzer ( cbc: 95c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( cbc: 95c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( cbc: 95c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( cbc: 95c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( cbc: 95c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( cbc: 95c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( cbc: 95c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( cbc:2fd4)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Establish Listener @ 127.0.0.1:55681
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:55681   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( cbc: 95c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      ( cbc:2fd4)] "CONNECT tiles.services.mozilla.com:443"   
+[Network Analyzer ( cbc:2fd4)]   (Sid:  9) Client -> Server @ : 235 bytes (Service=HTTP)
+[Web Request      ( cbc:2fd4)] "CONNECT self-repair.mozilla.org:443"   
+[Network Analyzer ( cbc:2fd4)]   (Sid:  8) Client -> Server @ : 229 bytes (Service=HTTP)
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  8) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  9) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( cbc:2fd4)] "CONNECT shavar.services.mozilla.com:443"   
+[Network Analyzer ( cbc:2fd4)]   (Sid:  5) Client -> Server @ : 237 bytes (Service=HTTP)
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc:2fd4)]   (Sid:  5) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Client -> Server @ : 456 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Server -> Client : 1743 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/favicon.ico"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 12) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Login [Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "POST http://localhost:1080/cgi-bin/login.pl"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Client -> Server @ : 625 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Client -> Server @ : 561 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc: 95c)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer ( cbc: 95c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 14) Client -> Server @ : 556 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 14) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Login [Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cbc:2fd4)] "GET http://localhost:1080/cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Client -> Server @ : 453 bytes (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cbc:2fd4)]   (Sid: 14) Connection Terminated (by Client)

@@ -1,0 +1,35 @@
+[t4]
+RequestBodyFile=t4_RequestBody.txt
+URL10=http://localhost:1080/WebTours/images/mer_login.gif
+SaveSnapshotResources=1
+FileName10=t1_0_mer_login.gif
+RequestHeaderFile=t4_RequestHeader.txt
+RawStepStartTime=1728569649170
+ContentType=text/html
+FrameIndex2=0.0
+RawStepName=SignOff Button
+FrameIndex3=0.1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1728569649276
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_4.xml
+Total=10
+URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=1
+URL2=http://localhost:1080/cgi-bin/nav.pl?in=home
+URL3=http://localhost:1080/WebTours/home.html
+URL4=http://localhost:1080/WebTours/images/in_itinerary.gif
+URL5=http://localhost:1080/WebTours/images/home.gif
+FileName1=t4.html
+URL6=http://localhost:1080/WebTours/images/signoff.gif
+URL7=http://localhost:1080/WebTours/images/in_home.gif
+FileName3=t4f1.html
+URL8=http://localhost:1080/WebTours/images/itinerary.gif
+URL9=http://localhost:1080/WebTours/images/flights.gif
+FileName2=t4f0.html
+FileName5=t3_5_home.gif
+FileName4=t3_6_in_itinerary.gif
+FileName7=t2_3_in_home.gif
+FileName6=t2_4_signoff.gif
+FileName9=t2_1_flights.gif
+FileName8=t2_2_itinerary.gif
+StepName=Url: SignOff Button

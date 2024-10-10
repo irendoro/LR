@@ -1,0 +1,651 @@
+[API Trapper      (2890:2048)] Recording in 64-bit mode: C:\Users\user\Downloads\firefox-50.1.0.win64.sdk\firefox-sdk\bin\firefox.exe
+[Network Analyzer (2890:2788)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2890:2788)] Load Network Traffic Analyzers:
+[Network Analyzer (2890:2788)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2890:2788)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2890:2788)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2890:2788)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2890:2788)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2890:2788)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2890:2788)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2890:1590)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Establish Listener @ 127.0.0.1:56753
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:56753   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (2890:2788)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT shavar.services.mozilla.com:443"   
+[Network Analyzer (2890:1590)]   (Sid:  4) Client -> Server @ : 237 bytes (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT self-repair.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid:  5) Client -> Server @ : 229 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  4) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2890:1590)] "CONNECT tiles.services.mozilla.com:443"   
+[Network Analyzer (2890:1590)]   (Sid:  3) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  5) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid:  3) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT ya.ru:443"   
+[Network Analyzer (2890:1590)]   (Sid:  7) Client -> Server @ : 193 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  7) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent UC3_TicketBooking [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT tiles.services.mozilla.com:443"   
+[Network Analyzer (2890:1590)]   (Sid:  3) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  3) Server -> Client : 485 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  3) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Go_to_WebTours [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT self-repair.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid:  9) Client -> Server @ : 229 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  9) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (2890:1590)]   (Sid: 10) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 10) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2890:1590)]   (Sid: 10) Client -> Server @ : 456 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 10) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 10) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/favicon.ico"   
+[Network Analyzer (2890:1590)]   (Sid: 10) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 10) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Go_to_WebTours [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid: 10) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Login [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "POST http://localhost:1080/cgi-bin/login.pl"   
+[Network Analyzer (2890:1590)]   (Sid: 13) Client -> Server @ : 630 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 13) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2890:1590)]   (Sid: 13) Client -> Server @ : 561 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2890:1590)]   (Sid: 14) Client -> Server @ : 556 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 13) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 14) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 16) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 15) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 16) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 15) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 17) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 17) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 16) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 15) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:1590)]   (Sid: 16) Server -> Client : 485 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 15) Server -> Client : 485 bytes  (Service=HTTP)
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 20) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 19) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 20) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 19) Server -> Client : 486 bytes  (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 18) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 18) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 15) Client -> Server @ : 243 bytes (Service=HTTP)
+[Web Request      (2890:1590)] "CONNECT incoming.telemetry.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 16) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 15) Server -> Client : 485 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 16) Server -> Client : 485 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT aus5.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 21) Client -> Server @ : 215 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 21) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Login [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid: 21) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Go_to_Flights [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (2890:1590)]   (Sid: 22) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 22) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (2890:1590)]   (Sid: 22) Client -> Server @ : 578 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (2890:1590)]   (Sid: 23) Client -> Server @ : 579 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 22) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 23) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 23) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Go_to_Flights [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2890:1590)]   (Sid: 23) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Find_flights [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "POST http://localhost:1080/cgi-bin/reservations.pl"   
+[Network Analyzer (2890:1590)]   (Sid: 24) Client -> Server @ : 879 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 24) Server -> Client : 2699 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 24) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent Find_flights [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (2890:1590)] "CONNECT self-repair.mozilla.org:443"   
+[Network Analyzer (2890:1590)]   (Sid: 25) Client -> Server @ : 229 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 25) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 25) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Choose_flight [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "POST http://localhost:1080/cgi-bin/reservations.pl"   
+[Network Analyzer (2890:1590)]   (Sid: 26) Client -> Server @ : 773 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 26) Server -> Client : 2961 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Choose_flight [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 26) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Pay_ticket [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "CONNECT safebrowsing.google.com:443"   
+[Network Analyzer (2890:1590)]   (Sid: 27) Client -> Server @ : 229 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 27) Server -> Client : 486 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "POST http://localhost:1080/cgi-bin/reservations.pl"   
+[Network Analyzer (2890:1590)]   (Sid: 28) Client -> Server @ : 957 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 28) Server -> Client : 2849 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 28) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Pay_ticket [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 28) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent Logout [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (2890:1590)]   (Sid: 29) Client -> Server @ : 552 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 29) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (2890:1590)] "GET http://localhost:1080/cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2890:1590)]   (Sid: 29) Client -> Server @ : 453 bytes (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:2788)] Address lookup for DESKTOP-9JRIND5 = 192.168.0.12
+[Network Analyzer (2890:2788)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid: 29) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent Logout [User action                 ] EndTransactionEvent UC3_TicketBooking [Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (2890:1590)]   (Sid:  2) Client -> Server @ : 1 bytes 

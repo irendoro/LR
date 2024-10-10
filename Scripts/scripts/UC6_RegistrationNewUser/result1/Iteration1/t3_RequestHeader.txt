@@ -1,0 +1,13 @@
+POST /cgi-bin/login.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru,en;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1728563525
+Content-Length: 167
+
